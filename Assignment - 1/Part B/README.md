@@ -29,15 +29,7 @@ A responsive, aesthetically pleasing Pomodoro Timer web application built using 
 
 ## 🚀 Live Demo
 
-🔗 **[Live App](https://your-firebase-url.web.app)**
-
-## 📸 Screenshots
-
-### Work Mode
-![Work Mode](screenshots/work-mode.png)
-
-### Break Mode
-![Break Mode](screenshots/break-mode.png)
+🔗 **[Live App](https://pomodoro-timer-aniket.web.app)**
 
 ## 📁 File Structure
 ```
