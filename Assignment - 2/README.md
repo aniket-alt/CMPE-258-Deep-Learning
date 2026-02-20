@@ -30,25 +30,6 @@ The goal of this assignment is to develop a fundamental understanding of:
 | 15 | Advanced TensorFlow | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 16 | Advanced JAX | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 
-## 🗂️ Repository Structure
-```
-├── 01_Neural_Network_Playground/
-├── 02_Introduction_to_NumPy/
-├── 03_Intro_to_PyTorch_Tensors/
-├── 04_Intro_to_TensorFlow_Tensors/
-├── 05_Intro_to_JAX_Tensors/
-├── 06_Calculus_for_Deep_Learning/
-├── 07_Probability_for_Deep_Learning/
-├── 08_Linear_Algebra_for_Deep_Learning/
-├── 09_Neural_Networks_from_Scratch/
-├── 10_Geometric_Intuition/
-├── 11_NumPy_to_PyTorch_Journey/
-├── 12_Advanced_PyTorch/
-├── 13_NumPy_to_TensorFlow_Keras/
-├── 14_Advanced_TensorFlow/
-└── 15_Advanced_JAX/
-```
-
 ## 🛠️ Technologies Covered
 
 - **NumPy** - Fundamental array operations and numerical computing
