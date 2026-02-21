@@ -27,6 +27,10 @@ A responsive, aesthetically pleasing Pomodoro Timer web application built using 
 | **JavaScript** | Timer logic & Interactivity |
 | **Firebase Hosting** | Deployment |
 
+## 📹 Video Walkthrough
+
+[Video Link](https://drive.google.com/file/d/1tWAm5dIwNEuxGrWDFtSDR73BooWL05c7/view?usp=sharing)
+
 ## 🚀 Live Demo
 
 🔗 **[Live App](https://pomodoro-timer-aniket.web.app)**
