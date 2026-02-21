@@ -122,7 +122,7 @@ Generate a complete Google Colab notebook for MNIST digit classifier using Keras
 
 ## 📹 Video Walkthrough
 
-🎥 **Video Link: (YOUR_VIDEO_LINK)**
+🎥 **Video Link: (https://drive.google.com/file/d/1QhKudDb0nG4eLO_5_gK7yMpzv0GWoSjB/view?usp=sharing)**
 
 The video demonstrates:
 1. Opening Cursor AI editor
