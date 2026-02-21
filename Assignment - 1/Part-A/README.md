@@ -80,7 +80,7 @@ Three different images analyzed:
 
 ## 📹 Video Walkthrough
 
-[Video Link - YouTube](YOUR_VIDEO_LINK_HERE)
+[Video Link](https://drive.google.com/file/d/1imv_5PxBv0R0224YXsM8g62_lgwJO0cx/view?usp=drive_link)
 
 The video covers:
 - Introduction to the assignment objectives
