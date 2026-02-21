@@ -47,7 +47,7 @@ bmi_calculator_app/
 
 ## 📹 Video Walkthrough
 
-🎥 **[YouTube Video](YOUR_VIDEO_LINK)**
+🎥 **[Video]([YOUR_VIDEO_LINK](https://drive.google.com/file/d/1GEA9usRQy7XnxmF7M3FmKzsBmgeH5tOT/view?usp=sharing))**
 
 The video demonstrates:
 1. Opening Cursor AI editor
