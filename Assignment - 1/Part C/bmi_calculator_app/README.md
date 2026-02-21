@@ -47,7 +47,14 @@ bmi_calculator_app/
 
 ## 📹 Video Walkthrough
 
-[Video Link](https://drive.google.com/file/d/1imv_5PxBv0R0224YXsM8g62_lgwJO0cx/view?usp=drive_link)
+🎥 **[YouTube Video](YOUR_VIDEO_LINK)**
+
+The video demonstrates:
+1. Opening Cursor AI editor
+2. Creating Flutter project
+3. Using AI to generate code
+4. Running and testing the app
+5. Demonstrating all features
 
 ## 🚀 How to Run
 
@@ -119,17 +126,6 @@ Create a BMI Calculator app with:
 | ✅ Windows | Supported |
 | ✅ macOS | Supported |
 | ✅ Linux | Supported |
-
-## 📹 Video Walkthrough
-
-🎥 **[YouTube Video](YOUR_VIDEO_LINK)**
-
-The video demonstrates:
-1. Opening Cursor AI editor
-2. Creating Flutter project
-3. Using AI to generate code
-4. Running and testing the app
-5. Demonstrating all features
 
 ## 📚 References
 
