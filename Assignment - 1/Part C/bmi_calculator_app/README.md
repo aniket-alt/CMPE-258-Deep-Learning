@@ -45,6 +45,10 @@ bmi_calculator_app/
 └── web/                   # Web-specific files
 ```
 
+## 📹 Video Walkthrough
+
+[Video Link](https://drive.google.com/file/d/1imv_5PxBv0R0224YXsM8g62_lgwJO0cx/view?usp=drive_link)
+
 ## 🚀 How to Run
 
 ### Prerequisites
