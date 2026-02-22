@@ -13,7 +13,7 @@ The goal of this assignment is to develop a fundamental understanding of:
 
 | # | Topic | Video Link | Colab Notebook |
 |---|-------|------------|----------------|
-| 1 | Neural Network Playground | [YouTube](VIDEO_LINK_HERE) | [Playground Site](https://dlmastery.github.io/neural-network-playground/) |
+| 1 | Neural Network Playground | (VIDEO_LINK_HERE) | [Playground Site](https://dlmastery.github.io/neural-network-playground/) |
 | 2 | Introduction to NumPy | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 3 | Intro to PyTorch Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 4 | Intro to TensorFlow Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
