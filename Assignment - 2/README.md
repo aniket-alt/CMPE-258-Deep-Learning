@@ -13,8 +13,8 @@ The goal of this assignment is to develop a fundamental understanding of:
 
 | # | Topic | Video Link | Colab Notebook |
 |---|-------|------------|----------------|
-| 1 | Introduction to NumPy | [LINK](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Playground Site](https://dlmastery.github.io/neural-network-playground/) |
-| 2 | Introduction to NumPy | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 1 | Intro to NumPy | [Link](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Playground Site](https://dlmastery.github.io/neural-network-playground/) |
+| 2 | Intro to PyTorch Tensors | [Link](https://drive.google.com/file/d/1fm1eUyqWgmUYXOfFn1Hhz6BjLwtexFUt/view?usp=sharing) | [Colab](COLAB_LINK_HERE) |
 | 3 | Intro to PyTorch Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 4 | Intro to TensorFlow Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 5 | Intro to JAX Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
