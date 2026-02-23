@@ -14,7 +14,7 @@ The goal of this assignment is to develop a fundamental understanding of:
 | # | Topic | Video Link | Colab Notebook |
 |---|-------|------------|----------------|
 | 1 | Intro to NumPy | [Link](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1AnLvYKtlEIhojUh6sbH95DCzWJ53BcyN/view?usp=sharing) |
-| 2 | Intro to PyTorch Tensors | [Link](https://drive.google.com/file/d/1fm1eUyqWgmUYXOfFn1Hhz6BjLwtexFUt/view?usp=sharing) | [Colab](COLAB_LINK_HERE) |
+| 2 | Intro to PyTorch Tensors | [Link](https://drive.google.com/file/d/1fm1eUyqWgmUYXOfFn1Hhz6BjLwtexFUt/view?usp=sharing) | [Colab](https://drive.google.com/file/d/14wiOLXZLPvHndgnTux5bM6W31OTU2Yr3/view?usp=sharing)) |
 | 3 | Intro to PyTorch Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 4 | Intro to TensorFlow Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 5 | Intro to JAX Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
