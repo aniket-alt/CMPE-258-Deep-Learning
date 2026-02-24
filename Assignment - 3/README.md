@@ -101,16 +101,22 @@ Contains four sub-implementations:
 | **e-iii** | Using Keras Functional API (`tf.keras.Model`) |
 | **e-iv** | Using high-level Keras Sequential API with callbacks |
 
-## 🎬 Video Walkthrough
+## 🎬 Video Walkthroughs
 
-📺 **YouTube Video**: [Link to Video Walkthrough]
+| Notebook | Video Link | Description |
+|----------|------------|-------------|
+| Colab a | [NumPy from Scratch](YOUR_LINK_HERE) | Manual backpropagation with chain rule, tf.einsum |
+| Colab b | [PyTorch from Scratch](YOUR_LINK_HERE) | Manual weights, autograd for gradients |
+| Colab c | [PyTorch with Classes](YOUR_LINK_HERE) | nn.Module, nn.Sequential, Adam optimizer |
+| Colab d | [PyTorch Lightning](YOUR_LINK_HERE) | LightningModule, callbacks, checkpointing |
+| Colab e | [TensorFlow Variants](YOUR_LINK_HERE) | All 4 implementations (scratch, layers, functional, sequential) |
 
-The video covers:
-- Code explanation for each implementation
-- Quick walkthrough of main code sections
-- Training results and loss curves
-- 4D visualization explanation
-- Final output demonstration
+Each video covers:
+- Code explanation and walkthrough
+- Training execution and results
+- Loss curves visualization
+- 4D plot demonstration
+- Final output and metrics
 
 ## 🚀 Getting Started
 
