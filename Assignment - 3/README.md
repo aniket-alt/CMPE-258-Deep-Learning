@@ -118,6 +118,13 @@ Each video covers:
 - 4D plot demonstration
 - Final output and metrics
 
+Each video covers:
+- Code explanation and walkthrough
+- Training execution and results
+- Loss curves visualization
+- 4D plot demonstration
+- Final output and metrics
+
 ## 🚀 Getting Started
 
 ### Prerequisites
