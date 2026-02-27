@@ -15,20 +15,19 @@ The goal of this assignment is to develop a fundamental understanding of:
 |---|-------|------------|----------------|
 | 1 | Intro to NumPy | [Link](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1AnLvYKtlEIhojUh6sbH95DCzWJ53BcyN/view?usp=sharing) |
 | 2 | Intro to PyTorch Tensors | [Link](https://drive.google.com/file/d/1fm1eUyqWgmUYXOfFn1Hhz6BjLwtexFUt/view?usp=sharing) | [Colab](https://drive.google.com/file/d/14wiOLXZLPvHndgnTux5bM6W31OTU2Yr3/view?usp=sharing) |
-| 3 | Intro to TensorFlow Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/13MYrK08WlVMf_MFgXlv46mxmIZyo-jVZ/view?usp=sharing) |
-| 4 | Intro to TensorFlow Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 5 | Intro to JAX Tensors | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 6 | Calculus for Deep Learning | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 7 | Probability for Deep Learning (Part 1) | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 8 | Probability for Deep Learning (Part 2) | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 9 | Linear Algebra for Deep Learning | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 10 | Neural Networks from Scratch | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 11 | Why Neural Networks Work - Geometric Intuition | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 12 | From NumPy to PyTorch: Deep Learning Journey | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 13 | Advanced PyTorch | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 14 | From NumPy to TensorFlow & Keras 3 | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 15 | Advanced TensorFlow | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 16 | Advanced JAX | [YouTube](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 3 | Intro to TensorFlow Tensors | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/13MYrK08WlVMf_MFgXlv46mxmIZyo-jVZ/view?usp=sharing) |
+| 4 | Intro to JAX Tensors | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 5 | Calculus for Deep Learning | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 6 | Probability for Deep Learning (Part 1) | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 7 | Probability for Deep Learning (Part 2) | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 8 | Linear Algebra for Deep Learning | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 9 | Neural Networks from Scratch | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 10 | Why Neural Networks Work - Geometric Intuition | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 12 | Advanced PyTorch | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 13 | From NumPy to TensorFlow & Keras 3 | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 14 | Advanced TensorFlow | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 15 | Advanced JAX | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 
 ## 🛠️ Technologies Covered
 
