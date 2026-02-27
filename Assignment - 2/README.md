@@ -26,8 +26,8 @@ The goal of this assignment is to develop a fundamental understanding of:
 | 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1UntRaxFADYN78V7PyxRDep3TZG_g8noN/view?usp=sharing) |
 | 12 | Advanced PyTorch | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1nx-K_2a3L58Fq0_9_I_dr8r30p2QrPF-/view?usp=sharing) |
 | 13 | From NumPy to TensorFlow & Keras 3 | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1fwzxsI2r5DBHLenlqz9LaGbxSWPjR-Vy/view?usp=sharing) |
-| 14 | Advanced TensorFlow | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 15 | Advanced JAX | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 14 | Advanced TensorFlow | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1b1yMplSoGkv772MMXEPop_tkjHiast_i/view?usp=sharing) |
+| 15 | Advanced JAX | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/10VfsPZppfhm2bZ1d_xPgKiIXyebKqfDb/view?usp=sharing) |
 
 ## 🛠️ Technologies Covered
 
