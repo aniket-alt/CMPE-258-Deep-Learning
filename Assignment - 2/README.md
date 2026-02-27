@@ -21,8 +21,8 @@ The goal of this assignment is to develop a fundamental understanding of:
 | 6 | Probability for Deep Learning (Part 1) | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1EdUmH-BMfpnsP5zZcNHIn-8F2tarqfyE/view?usp=sharing) |
 | 7 | Probability for Deep Learning (Part 2) | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 8 | Linear Algebra for Deep Learning | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 9 | Neural Networks from Scratch | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
-| 10 | Why Neural Networks Work - Geometric Intuition | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 9 | Neural Networks from Scratch | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1XQcoCEVdjbho-Ako1HkDaahBDnBBKsZw/view?usp=sharing) |
+| 10 | Why Neural Networks Work - Geometric Intuition | [Link](VIDEO_LINK_HERE) | [Colab] https://drive.google.com/file/d/1Y9osig7nYQ2lyiZtIGFE3JYlPpu3YP53/view?usp=sharing) |
 | 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 12 | Advanced PyTorch | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 13 | From NumPy to TensorFlow & Keras 3 | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
