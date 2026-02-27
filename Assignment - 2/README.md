@@ -23,7 +23,7 @@ The goal of this assignment is to develop a fundamental understanding of:
 | 8 | Linear Algebra for Deep Learning | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1Fb8L5IB5qKadPMGdRFMhE5PN62vJEsYn/view?usp=sharing) |
 | 9 | Neural Networks from Scratch | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1XQcoCEVdjbho-Ako1HkDaahBDnBBKsZw/view?usp=sharing) |
 | 10 | Why Neural Networks Work - Geometric Intuition | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1Y9osig7nYQ2lyiZtIGFE3JYlPpu3YP53/view?usp=sharing) |
-| 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1UntRaxFADYN78V7PyxRDep3TZG_g8noN/view?usp=sharing) |
 | 12 | Advanced PyTorch | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 13 | From NumPy to TensorFlow & Keras 3 | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 14 | Advanced TensorFlow | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
