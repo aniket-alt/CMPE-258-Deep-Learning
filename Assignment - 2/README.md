@@ -21,13 +21,13 @@ The goal of this assignment is to develop a fundamental understanding of:
 | 6 | Probability for Deep Learning (Part 1) | [Link](https://drive.google.com/file/d/1p1_3EvI4Y9jPJAe9S1S3lxjujQkafEBF/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1EdUmH-BMfpnsP5zZcNHIn-8F2tarqfyE/view?usp=sharing) |
 | 7 | Probability for Deep Learning (Part 2) | [Link](https://drive.google.com/file/d/1U_gtWM8j9JaJ5h2Gu5uhg4FiMayUiZw5/view?usp=sharing) | [Colab](https://drive.google.com/file/d/16Okcon996kTiNSuiHoz76HYM1B2i5Ftj/view?usp=sharing) |
 | 8 | Linear Algebra for Deep Learning | [Link](https://drive.google.com/file/d/1lBDs8_v5i3i481AKtBgI-hoZakw555gN/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1Fb8L5IB5qKadPMGdRFMhE5PN62vJEsYn/view?usp=sharing) |
-| 9 | Neural Networks from Scratch | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1XQcoCEVdjbho-Ako1HkDaahBDnBBKsZw/view?usp=sharing) |
-| 10 | Why Neural Networks Work - Geometric Intuition | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1Y9osig7nYQ2lyiZtIGFE3JYlPpu3YP53/view?usp=sharing) |
-| 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1UntRaxFADYN78V7PyxRDep3TZG_g8noN/view?usp=sharing) |
-| 12 | Advanced PyTorch | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1nx-K_2a3L58Fq0_9_I_dr8r30p2QrPF-/view?usp=sharing) |
-| 13 | From NumPy to TensorFlow & Keras 3 | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1fwzxsI2r5DBHLenlqz9LaGbxSWPjR-Vy/view?usp=sharing) |
-| 14 | Advanced TensorFlow | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1b1yMplSoGkv772MMXEPop_tkjHiast_i/view?usp=sharing) |
-| 15 | Advanced JAX | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/10VfsPZppfhm2bZ1d_xPgKiIXyebKqfDb/view?usp=sharing) |
+| 9 | Neural Networks from Scratch | [Link](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1XQcoCEVdjbho-Ako1HkDaahBDnBBKsZw/view?usp=sharing) |
+| 10 | Why Neural Networks Work - Geometric Intuition | [Link](https://drive.google.com/file/d/1fm1eUyqWgmUYXOfFn1Hhz6BjLwtexFUt/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1Y9osig7nYQ2lyiZtIGFE3JYlPpu3YP53/view?usp=sharing) |
+| 11 | From NumPy to PyTorch: Deep Learning Journey | [Link](https://drive.google.com/file/d/13GPZw2-DyO2wdFgS9VCnMkpuqR9UwDAR/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1UntRaxFADYN78V7PyxRDep3TZG_g8noN/view?usp=sharing) |
+| 12 | Advanced PyTorch | [Link](https://drive.google.com/file/d/1mGa6KPNclnJIL_oUIE-t3-0oK6pKWNth/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1nx-K_2a3L58Fq0_9_I_dr8r30p2QrPF-/view?usp=sharing) |
+| 13 | From NumPy to TensorFlow & Keras 3 | [Link](https://drive.google.com/file/d/1p1_3EvI4Y9jPJAe9S1S3lxjujQkafEBF/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1fwzxsI2r5DBHLenlqz9LaGbxSWPjR-Vy/view?usp=sharing) |
+| 14 | Advanced TensorFlow | [Link](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1b1yMplSoGkv772MMXEPop_tkjHiast_i/view?usp=sharing) |
+| 15 | Advanced JAX | [Link](https://drive.google.com/file/d/1-Zf472HB8b9oeScbu3WpAngipa_8PNNJ/view?usp=sharing) | [Colab](https://drive.google.com/file/d/10VfsPZppfhm2bZ1d_xPgKiIXyebKqfDb/view?usp=sharing) |
 
 ## 🛠️ Technologies Covered
 
