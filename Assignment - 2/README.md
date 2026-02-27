@@ -16,7 +16,7 @@ The goal of this assignment is to develop a fundamental understanding of:
 | 1 | Intro to NumPy | [Link](https://drive.google.com/file/d/1UqsjUEveu1c6Jmi2zJb2RAFnHR6fk17a/view?usp=sharing) | [Colab](https://drive.google.com/file/d/1AnLvYKtlEIhojUh6sbH95DCzWJ53BcyN/view?usp=sharing) |
 | 2 | Intro to PyTorch Tensors | [Link](https://drive.google.com/file/d/1fm1eUyqWgmUYXOfFn1Hhz6BjLwtexFUt/view?usp=sharing) | [Colab](https://drive.google.com/file/d/14wiOLXZLPvHndgnTux5bM6W31OTU2Yr3/view?usp=sharing) |
 | 3 | Intro to TensorFlow Tensors | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/13MYrK08WlVMf_MFgXlv46mxmIZyo-jVZ/view?usp=sharing) |
-| 4 | Intro to JAX Tensors | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
+| 4 | Intro to JAX Tensors | [Link](VIDEO_LINK_HERE) | [Colab](https://drive.google.com/file/d/1_P0JgMt8Trz9rbgL-C87rqRRi8iCHort/view?usp=sharing) |
 | 5 | Calculus for Deep Learning | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 6 | Probability for Deep Learning (Part 1) | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
 | 7 | Probability for Deep Learning (Part 2) | [Link](VIDEO_LINK_HERE) | [Colab](COLAB_LINK_HERE) |
