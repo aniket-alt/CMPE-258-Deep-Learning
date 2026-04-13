@@ -8,13 +8,12 @@ This repository contains executed Google Colab notebooks covering the deep learn
 
 | # | Topic | Colab (Executed) | Video Walkthrough |
 |---|-------|-----------------|-------------------|
-| 1 | Deep Learning Training Techniques | [Open Colab](https://colab.research.google.com/drive/1iTkufT7-J_2eA3_ft25Pb2iGCe7pCcUf#scrollTo=VXRec997-14k) | [Video](#) |
-| 2 | Metrics for Classification – Fundamentals | [Open Colab](#) | [Video](#) |
-| 3 | Hyperparameter Tuning for Deep Learning | [Open Colab](#) | [Video](#) |
-| 4 | Optimizers for Deep Learning | [Open Colab](#) | [Video](#) |
-| 5 | Activation Functions for Deep Learning | [Open Colab](#) | [Video](#) |
-| 6 | Convolutional Neural Networks | [Open Colab](#) | [Video](#) |
-| 7 | Modern CNN Architectures & Transfer Learning | [Open Colab](#) | [Video](#) |
+| 1 | Metrics for Classification – Fundamentals | [Open Colab]([#](https://colab.research.google.com/drive/1iTkufT7J_2eA3_ft25Pb2iGCe7pCcUf#scrollTo=VXRec997-14k)) | [Video](#) |
+| 2 | Hyperparameter Tuning for Deep Learning | [Open Colab](#) | [Video](#) |
+| 3 | Optimizers for Deep Learning | [Open Colab](#) | [Video](#) |
+| 4 | Activation Functions for Deep Learning | [Open Colab](#) | [Video](#) |
+| 5 | Convolutional Neural Networks | [Open Colab](#) | [Video](#) |
+| 6 | Modern CNN Architectures & Transfer Learning | [Open Colab](#) | [Video](#) |
 
 > Replace each `#` with the actual Google Colab sharing link and YouTube video URL.
 
