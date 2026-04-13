@@ -13,7 +13,7 @@ This repository contains executed Google Colab notebooks covering the deep learn
 | 3 | Optimizers for Deep Learning | [Open Colab](https://drive.google.com/file/d/1bjuWuhz_xP9-6BXIYl4N52a9Q19flPFw/view?usp=sharing) | [Video](#) |
 | 4 | Activation Functions for Deep Learning | [Open Colab](https://drive.google.com/file/d/1iTkufT7-J_2eA3_ft25Pb2iGCe7pCcUf/view?usp=sharing) | [Video](#) |
 | 5 | Convolutional Neural Networks | [Open Colab](#) | [Video](#) |
-| 6 | Modern CNN Architectures & Transfer Learning | [Open Colab](#) | [Video](#) |
+| 6 | Modern CNN Architectures & Transfer Learning | [Open Colab](https://drive.google.com/file/d/1rCeqvN3NKk4xYNr-GnmOblmn9IxMG49e/view?usp=sharing) | [Video](#) |
 
 > Replace each `#` with the actual Google Colab sharing link and YouTube video URL.
 
