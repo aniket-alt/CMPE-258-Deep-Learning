@@ -8,7 +8,7 @@ This repository contains executed Google Colab notebooks covering the deep learn
 
 | # | Topic | Colab (Executed) | Video Walkthrough |
 |---|-------|-----------------|-------------------|
-| 1 | Deep Learning Training Techniques | [Open Colab](#) | [Video](#) |
+| 1 | Deep Learning Training Techniques | [Open Colab](https://colab.research.google.com/drive/1iTkufT7-J_2eA3_ft25Pb2iGCe7pCcUf#scrollTo=VXRec997-14k) | [Video](#) |
 | 2 | Metrics for Classification – Fundamentals | [Open Colab](#) | [Video](#) |
 | 3 | Hyperparameter Tuning for Deep Learning | [Open Colab](#) | [Video](#) |
 | 4 | Optimizers for Deep Learning | [Open Colab](#) | [Video](#) |
