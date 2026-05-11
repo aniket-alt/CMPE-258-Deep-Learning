@@ -23,7 +23,7 @@
 
 | # | Topic | Original Colab |
 |---|-------|----------------|
-| 1 | RNN & LSTM | [Open in Colab](https://colab.research.google.com/drive/1uGPf1pUz_P0JIlpBqcPOJyHikmvO8uV2) |
-| 2 | NLP Transformers | [Open in Colab](https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF) |
-| 3 | Vision Transformers | [Open in Colab](https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx) |
-| 4 | Graph Transformers | [Open in Colab](https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj) |
+| 1 | RNN & LSTM | [Open in Colab](https://drive.google.com/file/d/1m_yOTrsnof9VevKy6TrYH5zZhXCc6ZXJ/view?usp=sharing) |
+| 2 | NLP Transformers | [Open in Colab](https://drive.google.com/file/d/1I7Cm2-7QT0slcM1yzXw66YayPYyPnEKW/view?usp=sharing) |
+| 3 | Vision Transformers | [Open in Colab](https://drive.google.com/file/d/1gfCsleV7KGIIwR0U2jBGxBL0IDD4OauO/view?usp=sharing) |
+| 4 | Graph Transformers | [Open in Colab](https://drive.google.com/file/d/1eItdKsypaAm7vMaV4Ld4iyFG5la-aXui/view?usp=sharing) |
