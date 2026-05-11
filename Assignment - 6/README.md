@@ -12,10 +12,10 @@
 
 | # | Topic | Video |
 |---|-------|-------|
-| 1 | RNN & LSTM | [▶ Watch on YouTube](#) |
-| 2 | NLP with Transformers | [▶ Watch on YouTube](#) |
-| 3 | Vision Transformers (ViT) | [▶ Watch on YouTube](#) |
-| 4 | Graph Transformers | [▶ Watch on YouTube](#) |
+| 1 | RNN & LSTM | [▶ LINK](https://drive.google.com/file/d/1nhqCi3e4RAM0lvh_ugXJhn-vmuljyYjh/view?usp=sharing) |
+| 2 | NLP with Transformers | [▶ LINK](https://drive.google.com/file/d/1_CbidsoBkKpH55TKO0HkpVjzw1PZOsuE/view?usp=sharing) |
+| 3 | Vision Transformers (ViT) | [▶ LINK]() |
+| 4 | Graph Transformers | [▶ LINK](https://drive.google.com/file/d/1el1hU73Ir2R0E7Thf7RlGCFpaoKhREpR/view?usp=sharing) |
 
 ---
 
