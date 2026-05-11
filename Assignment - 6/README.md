@@ -1,10 +1,10 @@
 # CMPE-258 Deep Learning - RNNs, Transformers & Graph Networks
 
-> **Name:** Aniket Anil Naik
+**Name:** Aniket Anil Naik
 
-> **Course:** CMPE-258 Deep Learning | San José State University  
+**Course:** CMPE-258 Deep Learning | San José State University  
 
-> **Assignment:** Execute, explain, and archive colabs on RNNs, NLP Transformers, Vision Transformers, and Graph Transformers
+**Assignment:** Execute, explain, and archive colabs on RNNs, NLP Transformers, Vision Transformers, and Graph Transformers
 
 ---
 
@@ -16,8 +16,6 @@
 | 2 | NLP with Transformers | [▶ Watch on YouTube](#) |
 | 3 | Vision Transformers (ViT) | [▶ Watch on YouTube](#) |
 | 4 | Graph Transformers | [▶ Watch on YouTube](#) |
-
-> Replace each `#` with your YouTube video URL after recording.
 
 ---
 
