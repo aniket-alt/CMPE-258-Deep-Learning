@@ -27,7 +27,3 @@
 | 2 | NLP Transformers | [Open in Colab](https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF) | [View Notebook](./02_nlp_transformers/nlp_colabs_executed.ipynb) |
 | 3 | Vision Transformers | [Open in Colab](https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx) | [View Notebook](./03_vision_transformers/vision_transformers_executed.ipynb) |
 | 4 | Graph Transformers | [Open in Colab](https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj) | [View Notebook](./04_graph_transformers/graph_transformers_executed.ipynb) |
-
----
-
-## 📂 Repository Structure
