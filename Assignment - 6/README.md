@@ -14,7 +14,7 @@
 |---|-------|-------|
 | 1 | RNN & LSTM | [▶ LINK](https://drive.google.com/file/d/1nhqCi3e4RAM0lvh_ugXJhn-vmuljyYjh/view?usp=sharing) |
 | 2 | NLP with Transformers | [▶ LINK](https://drive.google.com/file/d/1_CbidsoBkKpH55TKO0HkpVjzw1PZOsuE/view?usp=sharing) |
-| 3 | Vision Transformers (ViT) | [▶ LINK]() |
+| 3 | Vision Transformers (ViT) | [▶ LINK](https://drive.google.com/file/d/1psoicNEVdDOVJThRhARUXdPqDRSvveEo/view?usp=sharing) |
 | 4 | Graph Transformers | [▶ LINK](https://drive.google.com/file/d/1el1hU73Ir2R0E7Thf7RlGCFpaoKhREpR/view?usp=sharing) |
 
 ---
